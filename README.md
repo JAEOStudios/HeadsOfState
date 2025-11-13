@@ -1,2 +1,2 @@
-# HeadsOfState
-The Heads of State Game
+# State of the Union
+The State of the Union Game
